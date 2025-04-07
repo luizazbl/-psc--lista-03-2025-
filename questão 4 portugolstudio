@@ -1,0 +1,19 @@
+programa
+funcao
+inicio ) {
+real PI = 3.14
+inteiro opcao, raio, resultado
+escreva("digite o codigo da operação (1-perimetro 2-area 3-volume): *) leia(opcao)
+escreva ("\n o raio: ") leia(raio)
+se (opcao == 1) {
+resultado = 2 * PI * raio
+escreva("\no perimetro do circulo é:
+*+ resultado)
+se (opcao ==2) {
+resultado = PI* (raio*raio)
+escreva("\na area do circulo é: " + resultado)
+se (opcao ==3)1
+resultado
+= 4/3 * PI * (raio*raio)
+escreva("\no volume do circulo é:
+* + resultado)
