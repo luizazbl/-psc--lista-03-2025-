@@ -1,0 +1,16 @@
+programa
+funcao
+inicio { real numi, num2 caracter operacao
+real resultado
+escreva("digite o primeiro numero: ")
+leia numi)
+escreva("\ndigite o segundo numero: **)
+leia (num2)
+escreva("\ndigite a operacao: ")
+leia (operacao)
+se (operacao |= "+" e operacao I=
+escreva ("operador invalido")
+senao!
+escolha (operacao)(
+resultado = numi + num2
+escreva("o resultado sera: " + resultado)
